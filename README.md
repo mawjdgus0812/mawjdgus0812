@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac mawjdgus](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac mawjdgus](http://mazassumnida.wtf/api/v2/generate_badge?boj={mawjdgus})](https://solved.ac/{mawjdgus})
