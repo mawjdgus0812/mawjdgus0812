@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
 
-[![Solved.ac mawjdgus](http://mazassumnida.wtf/api/v2/generate_badge?boj=mawjdgus)](https://solved.ac/mawjdgus)
+<!-- [![Solved.ac mawjdgus](http://mazassumnida.wtf/api/v2/generate_badge?boj=mawjdgus)](https://solved.ac/mawjdgus) -->
 [![Jeonghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawjdgus0812)](https://github.com/mawjdgus0812)
